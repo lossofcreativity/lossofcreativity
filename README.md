@@ -1,16 +1,44 @@
-## Hi there 👋
+---
 
-<!--
-**lossofcreativity/lossofcreativity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+* 🎓 Student just getting into programming
+* 🌱 Currently learning: **[Python / JavaScript / C++]**
+* 🎯 Goal: Build real projects and improve every day
+* ⚡ I like figuring things out by building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I'm Learning
+
+* 💻 Basics of programming
+* 🌐 Web development (HTML, CSS, JavaScript)
+* 🧠 Problem solving
+
+---
+
+## 📌 Projects (So Far)
+
+* 🔹 Learning projects coming soon 🚧
+* 🔹 Small experiments and practice code
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🎯 Current Focus
+
+* Building small projects
+* Understanding core concepts
+* Staying consistent
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [avayashrestha112@gmail.com](mailto:avayashrestha112@gmail.com)
+* 🔗 LinkedIn: https://linked.com/avayashrestha01
+
+---
