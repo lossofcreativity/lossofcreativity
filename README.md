@@ -1,5 +1,3 @@
----
-
 ## 👨‍💻 About Me
 
 * 🎓 Student just getting into programming
