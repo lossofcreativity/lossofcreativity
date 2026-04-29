@@ -33,9 +33,3 @@
 * Staying consistent
 
 ---
-
-## 🌐 Connect With Me
-
-* 🔗 LinkedIn: https://linked.com/avayashrestha01
-
----
