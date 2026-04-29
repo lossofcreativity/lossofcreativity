@@ -36,7 +36,6 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [avayashrestha112@gmail.com](mailto:avayashrestha112@gmail.com)
 * 🔗 LinkedIn: https://linked.com/avayashrestha01
 
 ---
