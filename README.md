@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 Student just getting into programming
-* 🌱 Currently learning: **[Python / JavaScript / C++]**
+* 🌱 Currently learning: **[Web Development]**
 * 🎯 Goal: Build real projects and improve every day
 * ⚡ I like figuring things out by building
 
